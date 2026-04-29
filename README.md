@@ -3,6 +3,15 @@ GameMode From SAMP(San Andreas MultiPlayer) Open-Source Zone is a modified versi
 
 Development by Nextium.
 
+# 🔧 Desarrollo & Open Source
+
+Gran parte de nuestros sistemas, herramientas y servicios están desarrollados internamente y publicados como open source, bajo licencia GNU GPL v3, fomentando la transparencia.
+
+Licencia
+Este proyecto está licenciado bajo los términos de la [Licencia MIT](https://opensource.org/license/MIT). Eres libre de usar, modificar y distribuir este software con pocas restricciones.
+
+Si eres desarrollador y te interesa el roleplay, aquí hay código real resolviendo problemas reales.
+
 # **CHANGELOG**
 ## V0.1-B
 - Minor Changes
