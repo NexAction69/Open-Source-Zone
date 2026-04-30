@@ -11,8 +11,11 @@ A large part of our systems, tools, and services are developed in-house and rele
 
 
 # **CHANGELOG**
-## V0.1-B
-- Minor Changes
+## V0.1-ALPHA
+- Added compatibility with Flarum forum.
+- Passwords are encrypted using bcrypt
+
+
 
 ![Banner](https://github.com/NexAction69/Open-Source-Zone/blob/main/OpenSourceZone.png)
 
