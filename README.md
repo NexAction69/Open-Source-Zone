@@ -11,7 +11,13 @@ A large part of our systems, tools, and services are developed in-house and rele
 
 
 # **CHANGELOG**
-## V0.1-ALPHA
+## V0.2-ALPHA
+- Fix "Basurero" Job.
+- Add /macros command for SAPD(San Andreas Police Department).
+- More skins for female police.
+- Login & Register updates.
+
+### V0.1-ALPHA
 - Added compatibility with Flarum forum.
 - Passwords are encrypted using bcrypt
 
